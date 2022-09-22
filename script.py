@@ -1,1 +1,4 @@
-print("Primul push pe GitHub")
+def main():
+    print("Hello world!")
+
+main()
